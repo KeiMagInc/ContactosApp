@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string name="textViewUserId_texto">Id:</string>
+    <string name="textViewName_texto">Name:</string>
+    <string name="textViewPhoneNumber_texto">Phone Number:</string>
+    <string name="textViewEmailAddress_texto">Email Address:</string>
+    <string name="buttonQuery_texto">Query WebService</string>
+    <string name="buttonSave_texto">Save on BDD</string>
+</resources>
